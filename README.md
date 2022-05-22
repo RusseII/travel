@@ -1,5 +1,4 @@
-# Travel
-These are the places I would like to visit. 
+# Musts
 
 ## Venice
 Car free. Might be lots a tourists. 
@@ -7,6 +6,11 @@ Car free. Might be lots a tourists.
 ## Ghent 
 Live in the car-free area
 
+# Maybes
+
+## Freiburg im Breisgau
+Live in car-free area
+https://en.wikipedia.org/wiki/Freiburg_im_Breisgau
 
 
 ### Resources
