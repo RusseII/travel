@@ -1,4 +1,7 @@
-# What do I want? 
+# Info
+I would like to find a place to live longer term. 
+
+## What do I want? 
 
 Things that are important to me in priority order with priority ranking. 10s are non negotiable, anything lower I could compromise with, but would rather not. 
 * to live somewhere that I can do everything needed in my daily life without interacting with cars. (10)
@@ -12,24 +15,24 @@ Things that are important to me in priority order with priority ranking. 10s are
 
 Price doesn't matter. Altho cheaper is better given all other things equal. 
 
-# What do I not want? 
+## What do I not want? 
 * I do not want to hear traffic or see cars in my daily life. When traveling outside my area interacting with them would be acceptable though. 
 * I do not want to live in a very small town
 
 
-# Musts
+## To Visit 
 
-## Venice
+### Venice
 Car free. Might be lots a tourists. 
 
-## Ghent 
+### Ghent 
 Live in the car-free area
 
-# Maybes
-## Bordeaux, France
+## Maybe Visit 
+### Bordeaux, France
 ![image](https://user-images.githubusercontent.com/15036618/172024096-64bcbac1-d583-4e0c-8e83-75b258e02b90.png)
 
-## Freiburg im Breisgau
+### Freiburg im Breisgau
 Live in car-free area
 https://en.wikipedia.org/wiki/Freiburg_im_Breisgau
 
