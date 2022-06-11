@@ -11,10 +11,14 @@ Things that are important to me in priority order with priority ranking. 10s are
 * English or Spanish (8)
 * good weather year long (6)
 * a decent airport nearby for long distance travel (6)
-* lots of good veggie food places (4)
 
 Price doesn't matter. Altho cheaper is better given all other things equal. 
 
+## What do I like to do? 
+* Play organized sports like soccer and tennis (10)
+* Bike/walk around in a pleasant safe environment (10)
+* Nice restaurants and cafe's (8) (veggie/health food) 
+*
 ## What do I not want? 
 * I do not want to hear traffic or see cars in my daily life. When traveling outside my area interacting with them would be acceptable though
 * I do not want to live in a very small town
