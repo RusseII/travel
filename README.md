@@ -7,6 +7,7 @@ Things that are important to me in priority order with priority ranking. 10s are
 * English or Spanish (8)
 * good weather year long (6)
 * a decent airport nearby for long distance travel (6)
+* lots of good veggie food places (4)
 
 Price doesn't matter. Altho cheaper is better given all other things equal. 
 
