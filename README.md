@@ -10,6 +10,11 @@ Things that are important to me in priority order with priority ranking. 10s are
 
 Price doesn't matter. Altho cheaper is better given all other things equal. 
 
+# What do I not want? 
+* I do not want to hear traffic or see cars in my daily life. When traveling outside my area interacting with them would be acceptable though. 
+* I do not want to live in a very small town
+
+
 # Musts
 
 ## Venice
