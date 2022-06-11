@@ -4,7 +4,7 @@ I would like to find a place to live longer term.
 ## What do I want? 
 
 Things that are important to me in priority order with priority ranking. 10s are non negotiable, anything lower I could compromise with, but would rather not. 
-* to live somewhere that I can do everything needed in my daily life without interacting with cars. (10)
+* to live somewhere that I can do everything needed in my daily life without interacting with cars (10)
 * people in my peer group to live in same city or train away (10)
 * minimal smoking (9) 
 * trains that can be used to get to other cities (8)
