@@ -1,12 +1,12 @@
 # What do I want? 
 
 Things that are important to me in priority order with priority ranking. 10s are non negotiable, anything lower I could compromise with, but would rather not. 
-* I want to live somewhere that I can do everything needed in my daily life without interacting with cars. (10)
-* I want people in my peer group to live in same city or train away (10)
-* I want trains that can be used to get to other cities (8)
-* I want English or Spanish (8)
-* I want good weather year long (6)
-* I want a decent airport nearby for long distance travel (6)
+* to live somewhere that I can do everything needed in my daily life without interacting with cars. (10)
+* people in my peer group to live in same city or train away (10)
+* trains that can be used to get to other cities (8)
+* English or Spanish (8)
+* good weather year long (6)
+* a decent airport nearby for long distance travel (6)
 
 Price doesn't matter. Altho cheaper is better given all other things equal. 
 
